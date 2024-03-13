@@ -1,1 +1,2 @@
 file 4
+FILE 4 new line
